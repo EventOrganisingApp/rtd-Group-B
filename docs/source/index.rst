@@ -13,3 +13,32 @@ how to :ref:`installation` the project.
 
    This project is under active development.
 
+Getting Started
+===============
+
+Installation
+------------
+
+To install Lumache, use the following command:
+
+.. code-block:: bash
+
+   pip install lumache
+
+Usage
+=====
+
+Here's how to use Lumache:
+
+.. code-block:: python
+
+   import lumache
+
+   # Create a new recipe
+   recipe = lumache.create_recipe()
+
+   print(recipe)
+
+API Reference
+=============
+testingggg
